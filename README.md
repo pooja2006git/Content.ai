@@ -8,7 +8,7 @@
 It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage persistence** for previously generated results. 
 >  An elegant **AI-powered content generation web app** built with **React + TailwindCSS**, designed to assist users in creating creative and engaging content such as captions, blog intros, and email copies — quickly and efficiently. 
 
-🔗 **Live Demo** https://content-ai-olive.vercel.app/
+🔗 **Live Demo:**  https://content-ai-olive.vercel.app/
 
 ---
 
@@ -53,6 +53,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 - **Deployment:** Netlify  
 
 ---
+
 
 
 
