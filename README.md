@@ -4,6 +4,7 @@ An elegant **AI-powered content generation web app** built with **React + Tailwi
 
 ---
 
+
 ## 🧩 Overview  
 
 **AI Content Studio** acts as a smart writing assistant that uses artificial intelligence to generate meaningful content from a user-provided topic or idea.  
@@ -53,22 +54,11 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 
 ---
 
-## 🎨 Preview  
-
-![AI Content Studio Dashboard](https://github.com/pooja2006git/Weathernow.ai/blob/main/Dashboard%20(2).jpeg)
-
-*(Replace the above with your own screenshot once deployed)*  
-
----
 
 ## 🚀 Live Demo  
 
-🔗 [View on Netlify](https://your-app-link.netlify.app)
+🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
 
 ---
 
-## 🔐 Environment Setup  
 
-To connect your own Hugging Face API:
-```bash
-VITE_HF_TOKEN=hf_your_token_here
