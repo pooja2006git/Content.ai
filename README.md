@@ -9,6 +9,11 @@
 It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage persistence** for previously generated results.  
 
 ---
+## 🚀 Live Demo  
+
+🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
+
+---
 
 ### ✅ Implementation Summary  
 
@@ -53,11 +58,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 ---
 
 
-## 🚀 Live Demo  
 
-🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
-
----
 
 
 
