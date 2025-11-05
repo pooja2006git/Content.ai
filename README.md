@@ -11,7 +11,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 ---
 ## 🚀 Live Demo  
 
-🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
+🔗 [View on Vercel](https://content-ai-olive.vercel.app/)
 
 ---
 
@@ -56,6 +56,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 - **Deployment:** Netlify  
 
 ---
+
 
 
 
