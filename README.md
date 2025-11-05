@@ -1,10 +1,8 @@
 # ✨ AI Content Studio  
 
-
-![AI Content Studio Dashboard]("https://github.com/pooja2006git/Content.ai/blob/main/Dashboard%20(3).jpeg?raw=true")
+![AI Content Studio Dashboard](https://github.com/pooja2006git/Content.ai/blob/main/Dashboard%20(3).jpeg?raw=true)
 
 ---
-
 
 An elegant **AI-powered content generation web app** built with **React + TailwindCSS**, designed to assist users in creating creative and engaging content such as captions, blog intros, and email copies — quickly and efficiently.  
 
@@ -66,6 +64,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
 
 ---
+
 
 
 
