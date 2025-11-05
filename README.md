@@ -4,14 +4,11 @@
 
 ## 🧩 Overview  
 
- An elegant **AI-powered content generation web app** built with **React + TailwindCSS**, designed to assist users in creating creative and engaging content such as captions, blog intros, and email copies — quickly and efficiently. 
  **AI Content Studio** acts as a smart writing assistant that uses artificial intelligence to generate meaningful content from a user-provided topic or idea.  
-It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage persistence** for previously generated results.  
+It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage persistence** for previously generated results. 
+>  An elegant **AI-powered content generation web app** built with **React + TailwindCSS**, designed to assist users in creating creative and engaging content such as captions, blog intros, and email copies — quickly and efficiently. 
 
----
-## 🚀 Live Demo  
-
-🔗 [View on Vercel](https://content-ai-olive.vercel.app/)
+🔗 **Live Demo** [View on Vercel](https://content-ai-olive.vercel.app/)
 
 ---
 
@@ -56,6 +53,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 - **Deployment:** Netlify  
 
 ---
+
 
 
 
