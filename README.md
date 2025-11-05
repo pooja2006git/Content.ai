@@ -10,6 +10,19 @@ An elegant **AI-powered content generation web app** built with **React + Tailwi
 **AI Content Studio** acts as a smart writing assistant that uses artificial intelligence to generate meaningful content from a user-provided topic or idea.  
 It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage persistence** for previously generated results.  
 
+<p align="center">
+  <img src="https://github.com/pooja2006git/Content.ai/blob/main/Dashboard%20(3).jpeg?raw=true" 
+       alt="AI Content Studio Dashboard" 
+       width="850" 
+       style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0,0,0,0.25);" />
+</p>
+
+<p align="center">
+  <em>✨ Sleek, dark-themed AI-powered content generator built with React + TailwindCSS</em>
+</p>
+
+---
+
 ---
 
 ### ✅ Implementation Summary  
@@ -60,6 +73,7 @@ It demonstrates **AI text generation**, a **modern UI/UX**, and **local storage 
 🔗 [View on Netlify](https://ai-content-studioprep.netlify.app/)
 
 ---
+
 
 
 
